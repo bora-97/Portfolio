@@ -1,0 +1,30 @@
+
+.page-container {
+    position: relative;
+    min-height: 150vh;
+}
+
+.content-wrap {
+    padding-bottom: 2.5rem;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 3rem;
+
+}
+
+.blk {
+    color:blue;
+}
+
+.col-lg-5 {
+    margin-bottom: 30px;
+}
+
+.projects {
+    background-color: white; 
+}
+
